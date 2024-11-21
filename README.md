@@ -1,2 +1,2 @@
-# BingPuzzleGameSolution
-A solution for bing daily puzzle game.
+#  必应每日拼图解决方案
+按图上的序号从左到右，从上到下输入即可获得解图步骤。
