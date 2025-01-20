@@ -5,6 +5,7 @@
 // @description  Bing拼图解决方案
 // @author       1nTooDeep
 // @match        https://www.bing.com/spotlight/imagepuzzle*
+// @match        https://cn.bing.com/spotlight/imagepuzzle*
 // @grant        none
 // ==/UserScript==
 
